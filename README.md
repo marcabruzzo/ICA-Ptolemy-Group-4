@@ -1,3 +1,5 @@
 # Intro-to-Archaeology
 Ptolemy Project
-Hi Marc!
+Marc Abruzzo
+Joe Fusco
+Will Olsen
