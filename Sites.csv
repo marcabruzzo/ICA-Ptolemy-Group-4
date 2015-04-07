@@ -1,20 +1,20 @@
-Site,Name,Pleiades
+ID,Site,Name,Pleiades
 Herakleia Pontou,Heraclea,844944
-Ilourbida,Ilourbida,270325
-Egelesta,Egelesta,270314
-Ilarkouris,Ilarkouris,270323
-Ouarada,Ouarada,240979
-Thermida,x,x
-Titoulkia,Titulcia,236684
-Mantoua,Mantua,236534
-Komplouton,Complutum,246352
-Karakka,Carac(c)a,265842
-Libora,Libora,260591
-Ispinon,Ispinon,270326
-MeterkÅsa,Meterkosa,270349
-Barnakis,Barnakis,270301
-Alternia,Alternia,270295
-Paterniana,Paterniana,270361
-Rhigousa,x, x
-Laminion,Laminium,265946
-TÅlÄ“ton,Toletum,266066
+urn:cite:ptolemy:lonlat.pt_ll_510,Ilourbida,Ilourbida,270325
+urn:cite:ptolemy:lonlat.pt_ll_511,Egelesta,Egelesta,270314
+urn:cite:ptolemy:lonlat.pt_ll_512,Ilarkouris,Ilarkouris,270323
+urn:cite:ptolemy:lonlat.pt_ll_513,Ouarada,Ouarada,240979
+urn:cite:ptolemy:lonlat.pt_ll_514,Thermida,x,x
+urn:cite:ptolemy:lonlat.pt_ll_515,Titoulkia,Titulcia,236684
+urn:cite:ptolemy:lonlat.pt_ll_516,Mantoua,Mantua,236534
+urn:cite:ptolemy:lonlat.pt_ll_518,Komplouton,Complutum,246352
+urn:cite:ptolemy:lonlat.pt_ll_519,Karakka,Carac(c)a,265842
+urn:cite:ptolemy:lonlat.pt_ll_5652,Libora,Libora,260591
+urn:cite:ptolemy:lonlat.pt_ll_520,Ispinon,Ispinon,270326
+urn:cite:ptolemy:lonlat.pt_ll_521,MeterkÅsa,Meterkosa,270349
+urn:cite:ptolemy:lonlat.pt_ll_522,Barnakis,Barnakis,270301
+urn:cite:ptolemy:lonlat.pt_ll_523,Alternia,Alternia,270295
+urn:cite:ptolemy:lonlat.pt_ll_524,Paterniana,Paterniana,270361
+urn:cite:ptolemy:lonlat.pt_ll_525,Rhigousa,x, x
+urn:cite:ptolemy:lonlat.pt_ll_526,Laminion,Laminium,265946
+urn:cite:ptolemy:lonlat.pt_ll_517,TÅlÄ“ton,Toletum,266066
